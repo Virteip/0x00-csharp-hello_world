@@ -5,7 +5,6 @@ using System.Collections.Generic;
     {
         public static int MaxInteger(List<int> myList)
 	    {
-            Console.WriteLine($"{myList.Count}");
             if(myList.Count > 0){
                 myList.Sort();
                 int last = myList.Count - 1;
