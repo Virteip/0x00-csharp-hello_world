@@ -7,7 +7,7 @@
 	      if (array != null){
         	for (int point = array.Length - 1; point >= 0; point--) {
 			Console.Write($"{array[point]}");
-			if (point != array.Length-1){
+			if (point != 0){
 				Console.Write(" ");
 		   	}
            	}
