@@ -5,13 +5,12 @@ using System.Collections.Generic;
     {
         public static List<int> DeleteAt(List<int> myList, int index)
         {
-            if (index <= myList.Count - 1){
-                myList.Remove(myList[index]);
+            if (index > myList.Count - 1 || index < 0){
+	        Console.WriteLine("Index is out of range");
                 return myList;
             }else{
-                Console.WriteLine("Index is out of range");
+		myList.Remove(myList[index]);
                 return myList;
             }
         }
     }
-
