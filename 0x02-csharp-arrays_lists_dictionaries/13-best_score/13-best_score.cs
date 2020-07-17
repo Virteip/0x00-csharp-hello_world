@@ -10,7 +10,7 @@ using System.Collections.Generic;
             
             if(myList.Count != 0){
                 foreach(KeyValuePair<string, int> pair in myList){
-                        if(max < pair.Value){
+                        if(max <= pair.Value){
                             max = pair.Value;
                             name = pair.Key;
                         }
