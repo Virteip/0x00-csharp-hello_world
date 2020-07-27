@@ -8,7 +8,7 @@ class MyStack
 		bool found = aStack.Contains(search);
 
 		if(aStack.Count != 0){
-			Console.Write($"Number of items: {aStack.Count}\nTop of items: {aStack.Peek()}\nStack contains \"{search}\": {found}\n");
+			Console.Write($"Number of items: {aStack.Count}\nTop item: {aStack.Peek()}\nStack contains \"{search}\": {found}\n");
 			
 			if(found){
 				while(aStack.Pop() != search){
