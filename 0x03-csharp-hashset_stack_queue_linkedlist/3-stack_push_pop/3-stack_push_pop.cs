@@ -7,19 +7,20 @@ class MyStack
     {
 		bool found = aStack.Contains(search);
 		
-		Console.Write($"Number of items: {aStack.Count}\n");
+		Console.WriteLine($"Number of items: {aStack.Count}");
 
 		if(aStack.Count == 0){
 			Console.WriteLine("Stack is empty");
 		}else{
-			Console.Write($"Top item: {aStack.Peek()}\nStack contains \"{search}\": {found}\n");
-             if(found){
-                 while(aStack.Pop() != search){
-                     continue;
-                 }
-             }
-
+			Console.WriteLine($"Top item: {aStack.Peek()}");
 		}
+	     Console.WriteLine($"Stack contains \"{search}\": {found}");
+             
+		 if(found){
+             while(aStack.Pop() != search){
+                 continue;
+             }
+         }
 
 		aStack.Push(newItem);
 
