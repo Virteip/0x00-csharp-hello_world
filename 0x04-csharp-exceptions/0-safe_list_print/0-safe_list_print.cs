@@ -8,14 +8,14 @@ class List
 		int position = 0;
 
 		try{
-			while(position <= n){
+			while(position < n){
 				Console.WriteLine(myList[position]);
 				position++;
 			}
 		} catch (Exception) {
-			return position;	
+			return (position);	
 		}
 
-		return position;
+		return (position);
     }
 }
