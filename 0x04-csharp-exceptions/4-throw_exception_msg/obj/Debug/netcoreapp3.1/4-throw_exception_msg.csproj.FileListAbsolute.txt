@@ -1,0 +1,13 @@
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp3.1/4-throw_exception_msg.csprojAssemblyReference.cache
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp3.1/4-throw_exception_msg.AssemblyInfoInputs.cache
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp3.1/4-throw_exception_msg.AssemblyInfo.cs
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp3.1/4-throw_exception_msg.csproj.CoreCompileInputs.cache
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp3.1/4-throw_exception_msg
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp3.1/4-throw_exception_msg.deps.json
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp3.1/4-throw_exception_msg.runtimeconfig.json
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp3.1/4-throw_exception_msg.runtimeconfig.dev.json
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp3.1/4-throw_exception_msg.dll
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp3.1/4-throw_exception_msg.pdb
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp3.1/4-throw_exception_msg.dll
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp3.1/4-throw_exception_msg.pdb
+/home/sergiop/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp3.1/4-throw_exception_msg.genruntimeconfig.cache
