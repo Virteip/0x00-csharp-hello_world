@@ -1,0 +1,13 @@
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp3.1/0-dog
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp3.1/0-dog.deps.json
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp3.1/0-dog.runtimeconfig.json
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp3.1/0-dog.runtimeconfig.dev.json
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp3.1/0-dog.dll
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp3.1/0-dog.pdb
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp3.1/0-dog.csprojAssemblyReference.cache
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp3.1/0-dog.AssemblyInfoInputs.cache
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp3.1/0-dog.AssemblyInfo.cs
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp3.1/0-dog.csproj.CoreCompileInputs.cache
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp3.1/0-dog.dll
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp3.1/0-dog.pdb
+/home/sergiop/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp3.1/0-dog.genruntimeconfig.cache
