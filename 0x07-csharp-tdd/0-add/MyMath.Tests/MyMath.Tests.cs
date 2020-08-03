@@ -2,9 +2,11 @@ using NUnit.Framework;
 
 namespace MyMath.Tests
 {
+	///<summary>TEsts class</summary>
 	[TestFixture]
     public class Tests
     {
+			///<summary>Sum method</summary>
         [Test]
         public void FirstTestSum()
         {
