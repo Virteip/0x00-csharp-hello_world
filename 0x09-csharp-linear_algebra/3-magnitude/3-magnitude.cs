@@ -5,17 +5,17 @@ class VectorMath
 {
     public static double Magnitude(double[] vector)
     {
-        if (vector.Length == 2)
-        {	
-			double[] res = Math.Round(Math.Sqrt(vector[0]*vector[0]+vector[1]*vector[1]), 2);
-			return res;
-        }
-		
+		 if (vector.Length == 2)
+        {
+    		double result = Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2));
+
+			return Math.Round(result, 2); }
+
         if (vector.Length == 3)
         {
-            return (Math.Round(Math.Sqrt(vector[0]*vector[0]+vector[1]*vector[1]+vector[2]*vector[2]), 2));
-        }
+            double result = Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2) + Math.Pow(vector[2], 2));
 
-        return (-1);
-    }
-}
+			return Math.Round(result, 2); }
+
+        return -1;
+} }
